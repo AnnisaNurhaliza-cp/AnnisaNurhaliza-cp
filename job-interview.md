@@ -6,7 +6,8 @@ Literasi dalah kemampuan berbahasa seseorang (menyimak, berbicara, membaca, dan 
 ## 1.3 Branding
 
 ## 2. User Story
-Pengguna dapat membaca, meningkatkan literasi
+|Pengguna dapat membaca|⭐⭐⭐⭐⭐
+ meningkatkan literasi
 Pengguna mengakses beberapa buku yang di upload, yang di cari
 Pengguna dapat menulis karya di Lit
 Pengguna dapat mencari beberapa referensi di lit
