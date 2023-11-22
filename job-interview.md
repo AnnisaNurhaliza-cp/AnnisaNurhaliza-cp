@@ -4,6 +4,8 @@ Literasi dalah kemampuan berbahasa seseorang (menyimak, berbicara, membaca, dan 
 ## 1.2 Dekripsi Teknologi Informasi
 
 ## 1.3 Branding
+Dalam produk yang saya buat saya memberi nama Lit singkatan dari literasi. literasi sendiri sudah di jelaskan di latar belakang. karna latar belakang ini untuk meningkatkan literasi jadi saya mengambil branding dari kata itu
+
 
 ## 2. User Story
 |Pengguna dapat membaca|⭐⭐⭐⭐⭐
