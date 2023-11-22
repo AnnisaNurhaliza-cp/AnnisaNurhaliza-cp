@@ -7,10 +7,9 @@ Literasi dalah kemampuan berbahasa seseorang (menyimak, berbicara, membaca, dan 
 
 ## 2. User Story
 |Pengguna dapat membaca|⭐⭐⭐⭐⭐
- meningkatkan literasi
-Pengguna mengakses beberapa buku yang di upload, yang di cari
-Pengguna dapat menulis karya di Lit
-Pengguna dapat mencari beberapa referensi di lit
+|Pengguna dapat mengakses beberapa buku yang di upload|⭐⭐⭐⭐⭐
+|Pengguna dapat menulis karya|⭐⭐⭐⭐
+|Pengguna dapat mencari beberapa referensi|⭐⭐⭐
 
 ## 3. Struktur Data
 
