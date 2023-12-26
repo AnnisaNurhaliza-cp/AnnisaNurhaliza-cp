@@ -28,6 +28,7 @@ Campaign: Bagaimana membuat aplikasi yang membuat penggunanya senang berbagi ima
 
 Target user:
 Usia 15+
+
 Seorang yang senang berbagi inspirasi dan informasi baru
 Seorang yang senang mengeksplorasi inspirasi dan informasi baru
 Seorang yang ingin atau sudah memiliki sikap bertanggung jawab
@@ -37,6 +38,7 @@ User experience theme:
 Mudah
 Sederhana
 Menyenangkan
+
 Warna: putih/light blue/hitam/cream
 
 
@@ -86,6 +88,9 @@ Warna: putih/light blue/hitam/cream
 
 
 ## 3. Struktur Data
+https://www.mermaidchart.com/app/projects/a8906485-7d06-43cd-a66c-82ad5bff1cef/diagrams/1a68e789-83e7-490b-8e38-d989289a157a/version/v0.1/edit
+
+https://www.mermaidchart.com/raw/1a68e789-83e7-490b-8e38-d989289a157a?theme=light&version=v0.1&format=svg
 
 ## 4. Arsitektur
 
