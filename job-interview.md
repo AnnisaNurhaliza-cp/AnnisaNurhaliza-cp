@@ -1,5 +1,5 @@
 ## 1.1 Latar Belakang
-Literasi dalah kemampuan berbahasa seseorang (menyimak, berbicara, membaca, dan menulis) untuk berkomunikasi dengan cara yang berbeda sesuai dengan tujuannya. Skor Indonesia pada tahun 2022 sebesar 64,48 dari skala 1-100. Angka tersebut dinilai masih belum menggembirakan dan terus menjadi masalah nasional yang sangat memprihatinkan. Maka dari itu membuat aplikasi ini, sangat membantu dan bermanfaat bagi masyarakat khalayak umum. Karna semua forum bisa di akses melalui beberapa opsi, mengingat sekarang semua sudah berbau digital. Produk ini dibuat untuk meningkatkan minat membaca dan meningkatkan literasi
+Literasi ialah kemampuan berbahasa seseorang (menyimak, berbicara, membaca, dan menulis) untuk berkomunikasi dengan cara yang berbeda sesuai dengan tujuannya. Skor Indonesia pada tahun 2022 sebesar 64,48 dari skala 1-100. Angka tersebut dinilai masih belum menggembirakan dan terus menjadi masalah nasional yang sangat memprihatinkan. Maka dari itu membuat aplikasi ini, sangat membantu dan bermanfaat bagi masyarakat khalayak umum. Karna semua forum bisa di akses melalui beberapa opsi, mengingat sekarang semua sudah berbau digital. Produk ini dibuat untuk meningkatkan minat membaca dan meningkatkan literasi. Pada awalnya saya bingung ingin membuat apa, namun karna hobi saya juga membaca dan menulis sebuah cerita fantasi/fiksi jadi saya membuat aplikasi ini. aplikasi ini tidak hanya bisa di akses oleh orang yang menyukai buku bertema fantasi/fiksi namun saya juga menargetkan berbagai genre, termasuk pendidikan.
 
 ## 1.2 Dekripsi Teknologi Informasi
 Pertama akan ada muncul layar untuk login menggunakan no handphone atau email
@@ -88,10 +88,10 @@ Warna: putih/light blue/hitam/cream
 
 
 ## 3. Struktur Data
-"C:\Users\annis\Downloads\Untitled diagram-2023-12-26-073653.png"
+
 
 ## 4. Arsitektur
-"C:\Users\annis\Downloads\Untitled diagram-2023-12-26-075158.png"
+https://www.mermaidchart.com/raw/49cd4e8a-d19a-4c0a-b3ce-38456fc94b2d?theme=light&version=v0.1&format=svg
 
 ## 5. Teknologi, Liblary, dan Framework
 
@@ -100,3 +100,10 @@ Warna: putih/light blue/hitam/cream
 ## 7. Demontrasi Vidio
 
 ## 8. Bagaimana Mesin komputasi  dan sistem operasi berperan dalam produk teknologi informasimu
+
+## 9. Bagaimana Algoritma, Struktur data, dan bahasa  pemograman berperan dalam produk teknologi informasimu
+
+## 10. Bagaimana Metode Pengembangan Perangkat Lunak/Softwere Development Life Cycle Berperan dalam produk teknologi informasimu
+
+## 11. Bagaimana database/sistem basis data berperan dalam teknologi informasimu
+
