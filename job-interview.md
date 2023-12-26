@@ -88,7 +88,7 @@ Warna: putih/light blue/hitam/cream
 
 
 ## 3. Struktur Data
-
+https://www.mermaidchart.com/raw/669e12e7-c226-4c2d-ac2e-08a63ada2ead?theme=light&version=v0.1&format=svg
 
 ## 4. Arsitektur
 https://www.mermaidchart.com/raw/49cd4e8a-d19a-4c0a-b3ce-38456fc94b2d?theme=light&version=v0.1&format=svg
