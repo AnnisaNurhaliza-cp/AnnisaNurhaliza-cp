@@ -12,6 +12,11 @@ Dalam produk yang saya buat saya memberi nama Lit singkatan dari literasi. liter
 |Pengguna dapat mengakses beberapa buku yang di upload|⭐⭐⭐⭐⭐
 |Pengguna dapat menulis karya|⭐⭐⭐⭐
 |Pengguna dapat mencari beberapa referensi|⭐⭐⭐
+|Pengguna dapat menerbitkan karya yang ditulisnya|⭐⭐⭐⭐
+|Pengguna dapat menikmati fitur fitur yang ada| ⭐⭐⭐
+|Pengguna dapat dengan mudah mempelajari fitur fitur yang ada| ⭐⭐⭐⭐⭐
+|Pengguna dapat berimajinasi tentang karya yang ditulisnya|⭐⭐⭐⭐
+
 
 ## 3. Struktur Data
 
