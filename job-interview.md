@@ -88,10 +88,12 @@ Warna: putih/light blue/hitam/cream
 
 
 ## 3. Struktur Data
-https://www.mermaidchart.com/raw/669e12e7-c226-4c2d-ac2e-08a63ada2ead?theme=light&version=v0.1&format=svg
+
+![Untitled diagram-2023-12-26-073653](https://github.com/AnnisaNurhaliza-cp/AnnisaNurhaliza-cp/assets/144702677/348f7bf1-db03-4b0f-92e6-a1500d82df13)
 
 ## 4. Arsitektur
-https://www.mermaidchart.com/raw/49cd4e8a-d19a-4c0a-b3ce-38456fc94b2d?theme=light&version=v0.1&format=svg
+
+![Untitled diagram-2023-12-26-075158](https://github.com/AnnisaNurhaliza-cp/AnnisaNurhaliza-cp/assets/144702677/a16bdcd0-7b83-4f46-b9b9-5820402fccfc)
 
 ## 5. Teknologi, Liblary, dan Framework
 
