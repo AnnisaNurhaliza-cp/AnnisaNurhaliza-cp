@@ -102,8 +102,24 @@ Warna: putih/light blue/hitam/cream
 ## 7. Demontrasi Vidio
 
 ## 8. Bagaimana Mesin komputasi  dan sistem operasi berperan dalam produk teknologi informasimu
+1. **Peran Mesin Komputasi:**
+   - *Aplikasi pembaca dijalankan dengan optimal oleh mesin komputasi.*
+
+2. **Fungsi Sistem Operasi:**
+   - *Antarmuka pengguna untuk aplikasi pembaca disediakan oleh sistem operasi.*
+
+3. **Manajemen Sumber Daya oleh Mesin Komputasi:**
+   - *Sumber daya untuk mendukung kinerja aplikasi pembaca dikelola oleh mesin komputasi.*
+
+4. **Keamanan Sistem Operasi:**
+   - *Aplikasi pembaca dilindungi dari ancaman keamanan oleh sistem operasi.*
 
 ## 9. Bagaimana Algoritma, Struktur data, dan bahasa  pemograman berperan dalam produk teknologi informasimu
+Dalam pengembangan aplikasi pembaca, peran algoritma dan struktur data sangat diakui. Pemrosesan data aplikasi pembaca ditingkatkan melalui penerapan algoritma oleh sistem. Algoritma tersebut bertujuan untuk meningkatkan efisiensi operasional, memastikan kecepatan pemrosesan, dan meningkatkan pengalaman pengguna secara keseluruhan. Selain itu, informasi yang digunakan oleh aplikasi pembaca disimpan secara efisien melalui penerapan struktur data. Struktur data membantu dalam penyusunan dan penyimpanan data secara terstruktur, memungkinkan akses yang cepat dan optimal.
+
+Pengoptimalan kinerja aplikasi pembaca juga dicapai dengan menerapkan algoritma yang dioptimalkan oleh pengembang. Algoritma ini dirancang untuk memenuhi kebutuhan khusus aplikasi, seperti pencarian, pengurutan, atau proses pemrosesan lainnya. Sementara itu, manajemen memori aplikasi pembaca juga dikelola secara efisien melalui penerapan struktur data. Struktur data membantu dalam alokasi dan dealokasi memori dengan cara yang terstruktur, mengoptimalkan penggunaan sumber daya sistem secara keseluruhan.
+
+Dengan demikian, melalui penerapan algoritma dan struktur data yang cermat, pengembang dapat menciptakan aplikasi pembaca yang tidak hanya dioptimalkan dalam pemrosesan data dan kinerja, tetapi juga dapat memberikan pengalaman pengguna yang mulus dan memuaskan.
 
 ## 10. Bagaimana Metode Pengembangan Perangkat Lunak/Softwere Development Life Cycle Berperan dalam produk teknologi informasimu
 
